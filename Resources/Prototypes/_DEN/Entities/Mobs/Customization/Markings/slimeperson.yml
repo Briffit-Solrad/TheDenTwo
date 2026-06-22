@@ -14,7 +14,7 @@
     state: cyclopspulseeye
   - sprite: _DEN/Mobs/Customization/Slime/cyclopseye.rsi
     state: cyclopspulsering
-  shader: unshaded
+  # shader: unshaded # don't have marking shaders yet
 
 - type: marking
   id: AnatomicalSkull
